@@ -3,3 +3,12 @@
 > ## ⚠중요 : 
 >  - 예문을 꼭 달것   
 > - 배운날짜를 기록할것
+
+``` json
+{
+    "word" : "",
+    "meaning" : "",
+    "example" : "",
+    "exampleMeaning" : "",
+}
+```
