@@ -45,6 +45,36 @@
                 "example" : "The runners accelerated smoothly around the bend.",
                 "exampleMeaning" : "주자들이 모퉁이를 돌면서 서서히 속도를 높였다.",
             },
+               {
+                "word" : "accompany",
+                "meaning" : "동반하다, 동반되다",
+                "example" : "He will accompany you.",
+                "exampleMeaning" : "그는 너와 같이 갈것이다.",
+            },
+               {
+                "word" : "accomplish",
+                "meaning" : "성취하다, 완성하다",
+                "example" : "We only had 1 month to accomplish the project.",
+                "exampleMeaning" : "한 달 동안 그 프로젝트를 마쳐야 했습니다.",
+            },
+               {
+                "word" : "accord",
+                "meaning" : "합의, 부여하다, 일치하다",
+                "example" : "These results accord closely with our predictions.",
+                "exampleMeaning" : "이들 결과는 우리 예측과 밀접하게 부합한다.",
+            },
+               {
+                "word" : "account",
+                "meaning" : "계좌, 장부, 간주하다, 여기다, 계산하다, 설명하다",
+                "example" : "Put it on my account please.",
+                "exampleMeaning" : "그거 내 거래 장부에 달아 둬요.",
+            },
+               {
+                "word" : "accumulate",
+                "meaning" : "(서서히)축척하다, (서서히)늘어나다",
+                "example" : "Your way to accumulate a million dollars is very unique.",
+                "exampleMeaning" : "당신이 백만 불을 모으는 방법은 매우 독특하군요.",
+            },
     
         ]
    
